@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Datascientist2004
 - 👀 I’m interested in .artifical intelligence and robotics..
-- 🌱 I’m currently learning data science...
+- 🌱 I’m currently learning data science,data analyst and business analyst...
 - 💞️ I’m looking to collaborate on ..datascience and machine learning.
 - 📫 How to reach me .honeychauhan357@gmail.com..
 
